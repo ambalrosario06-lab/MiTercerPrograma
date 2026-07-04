@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MiTercerPrograma")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80e4794cd54fa710fdd977085685651cb6a2646a")]
 [assembly: System.Reflection.AssemblyProductAttribute("MiTercerPrograma")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MiTercerPrograma")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
