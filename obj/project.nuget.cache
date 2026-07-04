@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "oOd2ikN+YOQ=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Ambel Rosario\\OneDrive\\Desktop\\programacion-ll\\MiTercerPrograma\\MiTercerPrograma.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ambel Rosario\\.nuget\\packages\\spectre.console\\0.57.2\\spectre.console.0.57.2.nupkg.sha512",
+    "C:\\Users\\Ambel Rosario\\.nuget\\packages\\spectre.console.ansi\\0.57.2\\spectre.console.ansi.0.57.2.nupkg.sha512"
+  ],
+  "logs": []
+}
